@@ -98,7 +98,7 @@ I want more players fighting over those edges again.
 
 ## Download
 
-### https://github.com/jasperand2-arch/NoGTO-FindTheFish/releases/download/R5.11/NoGTO_FindTheFish_Complete_R5_11_REDDIT_RELEASE.pdf
+### [Download FindTheFish R5.11 PDF](https://github.com/jasperand2-arch/NoGTO-FindTheFish/releases/download/R5.11/NoGTO_FindTheFish_Complete_R5_11_REDDIT_RELEASE.pdf)
 
 Current public release: **R5.11**
 
